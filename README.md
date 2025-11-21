@@ -1,0 +1,1 @@
+This repository contains a simple SQL project demonstrating my ability to create relational tables, load mock user-activity data, and perform a basic conversion analysis for an e-commerce style platform. The script showcases clean SQL structuring with CTEs, JOINs, and conditional aggregations to calculate active users, buyers, and country-level conversion rates.
